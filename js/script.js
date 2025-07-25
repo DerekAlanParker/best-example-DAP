@@ -3,6 +3,6 @@ document.addEventListener(
     function(event)
     {
         var message = document.getElementById('message')
-        message.innerText = 'The script ran!'       
+        message.innerText = 'The Best-Example-DAP ran!'       
     }
 );
